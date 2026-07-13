@@ -239,3 +239,20 @@ color:#00d4ff;
   margin: 5px 0;
 
 }
+@media (max-width: 700px) {
+
+  .card {
+    width: 90%;
+    min-height: 600px;
+    padding: 35px;
+  }
+
+  h1 {
+    font-size: 45px;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+
+  }
