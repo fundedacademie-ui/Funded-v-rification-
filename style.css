@@ -159,4 +159,20 @@ margin-top:20px;
 
 color:#00d4ff;
 
+  }.connection-status {
+  margin-top: 15px;
+  font-size: 16px;
+  color: #00d4ff;
+  font-weight: 600;
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.5;
+  }
   }
