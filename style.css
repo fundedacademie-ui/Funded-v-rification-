@@ -173,7 +173,10 @@ font-weight:bold;
 
 margin-top:25px;
 
-font-size:14px;
+.info {
+  font-size: 17px;
+  line-height: 2.2;
+}
 
 line-height:2;
 
