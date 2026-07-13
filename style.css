@@ -26,10 +26,9 @@ body {
 .card {
 
   .card {
-  position: relative;
-  width: 420px;
-  min-height: 600px;
-  padding: 40px;
+  width: 650px;
+  min-height: 700px;
+  padding: 60px;
 
   display: flex;
   flex-direction: column;
@@ -72,17 +71,20 @@ font-size:12px;
 
 h1 {
 
-font-size:48px;
-margin-top:15px;
+h1 {
+  font-size: 64px;
+  letter-spacing: 2px;
+}
 
 }
 
 
 h2 {
 
-font-size:20px;
-font-weight:400;
-opacity:.8;
+h2 {
+  font-size: 28px;
+  font-weight: 400;
+}
 
 }
 
